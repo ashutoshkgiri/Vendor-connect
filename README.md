@@ -65,9 +65,5 @@ To deploy the project, follow these steps:
 3. Commit your changes and push them.
 4. Create a pull request.
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For any queries, reach out to the project maintainer.
 
